@@ -4,5 +4,8 @@ This repository explores the [Boston Economic Indicators](https://data.boston.go
 ## Repository Contents
 * [Boston_Economic_Indicators_Analysis.ipynb](https://github.com/AvonleaFisher/Boston-economic-indicators/blob/main/Boston_Economic_Indicators_Analysis.ipynb): A notebook with summary statistics for the dataset and Seaborn scatterplots that display seasonal changes in a selection of economic indicators.
 * [boston-economic-indicators.csv](https://github.com/AvonleaFisher/Boston-economic-indicators/tree/main/Data): A CSV file containing data used in the notebook.
+<img src="https://github.com/AvonleaFisher/Boston-economic-indicators/blob/main/Images/unemp.rate.png"></a>
+> Scatterplot example: unemployment rate by month and year
+
 ## For further information
 Please contact me at [fisheravonlea@gmail.com](mailto:fisheravonlea@gmail.com) or via my [LinkedIn profile](https://www.linkedin.com/in/avonlea-fisher/).
